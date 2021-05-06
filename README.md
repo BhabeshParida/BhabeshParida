@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhabeshParida
+- 👋 Hi, I’m BhabeshParida
 - 👀 I’m interested in Information Security  Analyst 
 
 <!---
