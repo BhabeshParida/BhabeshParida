@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **paridabhabesh2018@gmail.com**
 
-- ⚡ Fun fact **Python is my comfort language.**
+- ⚡ Fun fact **If code compiles on first try, I celebrate like it’s a festival.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
