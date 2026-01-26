@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhabeshparida&label=Profile%20views&color=0e75b6&style=flat" alt="bhabeshparida" /> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Manual and Automation Testing**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
 - 👨‍💻 All of my projects are available at [https://bhabesh.vercel.app/](https://bhabesh.vercel.app/)
 
-- 💬 Ask me about **Python, Data Science**
+- 💬 Ask me about **Python, Java, Selenium**
 
 - 📫 How to reach me **paridabhabesh2018@gmail.com**
 
