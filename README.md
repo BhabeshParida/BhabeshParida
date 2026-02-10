@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhabeshparida&label=Profile%20views&color=0e75b6&style=flat" alt="bhabeshparida" /> </p>
 
-- 🌱 I’m currently learning **Manual and Automation Testing**
+- 🌱 I’m currently learning **Selenium **
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
